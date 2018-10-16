@@ -1,2 +1,4 @@
 # hello
-First test of git with the infamous Hello World
+First test of Git with the popular Hello World.
+
+And another line for  helloing.
